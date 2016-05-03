@@ -1,0 +1,22 @@
+{
+  "name": "react-native-geolocation-locationapi",
+  "version": "0.1.0",
+  "description": "React Native Module to use Android Geolocation via LocationAPI Geolocation Library",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrihariThalla/react-native-geolocation-locationapi.git"
+  },
+  "author": "Srihari Thalla <thallasrihari@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SrihariThalla/react-native-geolocation-locationapi/issues"
+  },
+  "homepage": "https://github.com/SrihariThalla/react-native-geolocation-locationapi#readme",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.1"
+  }
+}

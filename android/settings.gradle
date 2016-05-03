@@ -1,0 +1,3 @@
+rootProject.name = 'locationapi'
+
+include ':app', ':locationapi'
